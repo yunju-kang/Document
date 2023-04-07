@@ -1,0 +1,1 @@
+`sudo cp <pkg-real-name> <pkg_abbreviated_name>`
